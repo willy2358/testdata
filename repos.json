@@ -1,0 +1,32 @@
+[
+  {
+    "repoId": 1,
+    "name": "一级建造师题库",
+    "title": "一级建造师题库",
+    "originalPrice": 299,
+    "favorPrice": 199,
+    "author": "考神官方",
+    "image": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/images/repo.jpg?raw=true",
+    "source": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/doc1.zip?raw=true"
+  },
+  {
+    "repoId": 2,
+    "name": "机电工程师题库",
+    "title": "机电工程师题库",
+    "originalPrice": 299,
+    "favorPrice": 199,
+    "author": "考神官方",
+    "image": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/images/repo.jpg?raw=true",
+    "source": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/doc2.zip?raw=true"
+  },
+  {
+    "repoId": 3,
+    "title": "机电工程师题库",
+    "name": "机电工程师题库",
+    "originalPrice": 399,
+    "favorPrice": 149,
+    "author": "个人",
+    "image": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/images/repo.jpg?raw=true",
+    "source": "https://github.com/willy2358/EEngineer/blob/review_ui/testdata/doc1.zip?raw=true"
+  }
+]
